@@ -1,4 +1,5 @@
 # 🔐 Password Generator App
+# Demo link: https://tourmaline-torte-fb5126.netlify.app/
 
 A simple and modern **Password Generator** built with **React**, **Vite**, and **Tailwind CSS**. This app allows users to generate strong passwords with customizable options like including **numbers** and **symbols**.
 
